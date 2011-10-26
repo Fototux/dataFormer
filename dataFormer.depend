@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1319602562 source:/home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerTools.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<usb.h>
+	<math.h>
+	"dataFormerTools.h"
+
+1319606294 /home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerTools.h
+	<usb.h>
+
+1319604187 source:/home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerTemprechnung.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"dataFormerTemprechnung.h"
+
+1319605638 /home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerTemprechnung.h
+
+1319606215 source:/home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<usb.h>
+	<math.h>
+	<time.h>
+	"dataFormerTools.h"
+	"dataFormerTemperatureCalc.h"
+	"dataFormerADOperations.h"
+
+1319605882 source:/home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerADOperations.c
+
+1319606041 source:/home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerTemperatureCalc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"dataFormerTemperatureCalc.h"
+
+1319606162 /home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerTemperatureCalc.h
+
+1319605921 /home/daniel/Dokumente/Studium/Bachelorarbeit/dataFormer/dataFormer/commandline/dataFormerADOperations.h
+

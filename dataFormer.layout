@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="dataFormerTemperatureCalc.c" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="dataFormerTemperatureCalc.h" open="1" top="0" tabpos="5">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="dataFormerTools.c" open="1" top="1" tabpos="2">
+		<Cursor position="559" topLine="0" />
+	</File>
+	<File name="dataFormerTools.h" open="1" top="0" tabpos="4">
+		<Cursor position="367" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="1197" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,2 @@
+#!/bin/bash
+j=0; for i in {1..256}; do sudo ./dataFormer adconvstart; sleep 0.00001s; k=$(echo "`sudo ./dataFormer adgetdata`" | bc); j=$(echo "$j + $k" | bc); done; j=$(echo "scale =2; $j/256" | bc); echo $j
